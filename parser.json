@@ -1,7 +1,7 @@
 {
+  "location": null,
+  "lang": "goctl",
   "url": "https://github.com/chaozwn/tree-sitter-goctl",
   "semver": false,
-  "parser_version": "49c43532689fe1f53e8b9e009d0521cab02c432b",
-  "location": null,
-  "lang": "goctl"
+  "parser_version": "49c43532689fe1f53e8b9e009d0521cab02c432b"
 }
